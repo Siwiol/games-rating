@@ -1,0 +1,20 @@
+{
+  "name": "kb-backend-week-2-startkit-main",
+  "version": "1.0.0",
+  "description": "Это стартовый архив для второй проектной работы по бэкенду.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustPlant/week2.git"
+  },
+  "author": "JustPlant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JustPlant/week2/issues"
+  },
+  "homepage": "https://github.com/JustPlant/week2#readme"
+}
